@@ -1,0 +1,21 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    width: 100px; /* 设置宽度 */
+    height: 50px; /* 设置高度 */
+    position: relative; /* 设置定位为相对定位，以便可以控制其位置 */
+    top: 0px; /* 设置顶部距离 */
+    left: 0px; /* 设置左侧距离 */
+    /* outline: none; */
+}
